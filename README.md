@@ -3,6 +3,7 @@ Hello, I'm Dylan Rothbauer, a driven software engineer with a diverse background
 
 # 💻 Technical Skills
 - **Languages:** C#, C++, HTML/CSS, Java, SQL, PHP
+- **Databases:** MySQL, SQL Server
 - **Technologies:** Git, Unity, .NET Core, Azure DevOps, MVC/Entity Framework
 - **Concepts:** Data Structures, Algorithms, Agile Methodologies
 
