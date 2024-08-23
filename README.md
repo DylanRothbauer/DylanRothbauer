@@ -15,4 +15,5 @@ Hello, I'm Dylan Rothbauer, a driven software engineer with a diverse background
 - **Continuous Learning:** Exploring new technologies and methodologies, with a current focus on cloud computing, software development, game development, data structures and algorithms.
 
 # 🤝 Let's Connect
-I'm always open to collaborating on exciting projects or discussing interests. Feel free to reach out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-rothbauer-ab285624b/) or connect with me here on GitHub!
+I'm always open to collaborating on exciting projects or discussing interests. Feel free to reach out or connect with me here on GitHub!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-rothbauer-ab285624b/) | 
