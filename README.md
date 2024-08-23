@@ -9,7 +9,7 @@ Hello, I'm Dylan Rothbauer, a driven software engineer with a diverse background
 # 🚀 Projects
 - **Counselors Connect:** An app designed to track and manage interactions between students and counselors. This application addresses the need for an organized system to log counseling sessions, monitor progress, and facilitate effective communication between students and their counselors.
 - **Project Volcanite:** A Unity-based game focused on player-charm interactions and enemy dynamics.
-- **Interview Prep:** Organized coding challenges and algorithm studies from platforms like LeetCode, HackerRank, and CodeChef.
+- **Interview Prep Central:** My organized coding challenges and algorithm studies from platforms like LeetCode, HackerRank, and CodeChef.
 
 # 🎯 Interests
 - **Continuous Learning:** Exploring new technologies and methodologies, with a current focus on cloud computing, software development, game development, data structures and algorithms.
