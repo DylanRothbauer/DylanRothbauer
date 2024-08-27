@@ -48,7 +48,6 @@ I'm always open to new opportunities for collaboration on innovative projects or
 [![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/dylan-rothbauer-ab285624b/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DylanRothbauer&icon=0&color=3)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=DylanRothbauer&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
