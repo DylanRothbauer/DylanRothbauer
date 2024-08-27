@@ -36,7 +36,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=DylanRothbauer&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" alt="Dylan's GitHub Stats" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRothbauer&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Dylan's Top Languages" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRothbauer&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Dylan's Top Languages" width="320"/>
     </td>
   </tr>
 </table>
