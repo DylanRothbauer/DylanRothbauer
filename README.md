@@ -1,5 +1,14 @@
 # 👋 About Me
-Hello, I'm Dylan Rothbauer, a dedicated software engineer with a solid foundation in both leadership and technology. I have a passion for tackling complex problems and crafting innovative solutions that make a positive impact. I love to learn and grow outside of my comfort zone, always eager to improve and seek guidance with new technology.
+
+- 🧑‍💻 **Name:** Dylan Rothbauer
+- 💡 **Profession:** Software Engineer
+- 🎓 **Skills:** Leadership and Technology
+- 📚 **Interests:** Gaming, reading, and hanging out with friends/family
+- 🛠️ **Passion:** Tackling complex problems and crafting innovative solutions
+- 🌱 **Learning:** Continuously seeking to grow outside of my comfort zone
+- 🤝 **Collaboration:** Open to learning from others and embracing new technologies
+- 💭 **Mindset:** Eager to improve, always seeking guidance and new challenges
+
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
