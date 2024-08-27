@@ -49,5 +49,6 @@ I'm always open to new opportunities for collaboration on innovative projects or
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DylanRothbauer&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DylanRothbauer&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
