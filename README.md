@@ -1,13 +1,11 @@
 # 👋 About Me
 
-- 🧑‍💻 **Name:** Dylan Rothbauer
-- 💡 **Profession:** Software Engineer
-- 🎓 **Skills:** Leadership and Technology
-- 📚 **Interests:** Gaming, reading, and hanging out with friends/family
-- 🛠️ **Passion:** Tackling complex problems and crafting innovative solutions
-- 🌱 **Learning:** Continuously seeking to grow outside of my comfort zone
-- 🤝 **Collaboration:** Open to learning from others and embracing new technologies
-- 💭 **Mindset:** Eager to improve, always seeking guidance and new challenges
+🧑‍💻 Software Engineer<br/>
+🎓 Studied Computer Science at the University of Wisconsin - Stout, WI<br/>
+📚 I love gaming, reading, and hanging out with friends/family<br/>
+🌱 Continuously seeking to grow outside of my comfort zone<br/>
+🤝 Open to learning from others and embracing new technologies<br/>
+💭 Eager to improve, always seeking guidance and new challenges<br/>
 
 
 # 💻 Tech Stack:
