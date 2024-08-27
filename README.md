@@ -1,24 +1,49 @@
 # 👋 About Me
-Hello, I'm Dylan Rothbauer, a dedicated software engineer with a solid foundation in both leadership and technology. I have a passion for tackling complex problems and crafting innovative solutions that make a positive impact. I love to learn and grow outside of my comfort zone, always eager to improve and seek guidence with new technology.
+Hello, I'm Dylan Rothbauer, a dedicated software engineer with a solid foundation in both leadership and technology. I have a passion for tackling complex problems and crafting innovative solutions that make a positive impact. I love to learn and grow outside of my comfort zone, always eager to improve and seek guidance with new technology.
 
-# 💻 Technical Skills
-- **Languages:** C#, C++, HTML/CSS, Java, SQL, PHP
-- **Databases:** MySQL, SQL Server
-- **Technologies:** Git, Unity, .NET Core, Azure DevOps, MVC/Entity Framework
-- **Concepts:** Data Structures, Algorithms, Agile Methodologies
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 🚀 Projects
-- **Counselors Connect:** An app designed to track and manage interactions between students and counselors. This application addresses the need for an organized system to log counseling sessions, monitor progress, and facilitate effective communication between students and their counselors.
-- **Project Volcanite:** A Unity-based game that emphasizes player-charm interactions and dynamic enemy behavior, creating an immersive and engaging experience.
-- **Interview Prep Central:** A collection of my organized coding challenges and algorithm studies from platforms like LeetCode, HackerRank, and CodeChef, aimed at sharpening my problem-solving skills.
+# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DylanRothbauer&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" alt="Dylan's GitHub Stats" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRothbauer&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Dylan's Top Languages" width="400"/>
+    </td>
+  </tr>
+</table>
 
-# 🎯 Interests
-- **Continuous Learning:** I am constantly exploring new technologies and methodologies to stay at the forefront of software development. My current areas of focus include cloud computing, advanced software development practices, game development, and the deeper intricacies of data structures and algorithms.
-- **Gaming:** I am an avid gamer with a love for first-person shooter (FPS) games. Some of my all-time favorites include Valorant, CS
-, Battle Bit, Battlefield, and Call of Duty. My gaming journey began as a kid with my Nintendo DS, playing classics like Mario Kart and Super Mario Bros. Today, gaming continues to be a significant part of my life, providing a fun and engaging way to connect with family and friends. I also find that my passion for gaming inspires my creativity and technical skills in game development, pushing me to bring the same level of excitement and challenge to my own projects.
-- **Reading:** I have a passion for reading, especially in areas like self-improvement, technology, mathematics, and science. I often dive into textbooks and other resources to deepen my understanding, exploring topics such as software design, clean code principles, and preparing for technical interviews with books like Cracking the Coding Interview. Reading not only expands my knowledge but also fuels my creativity and problem-solving skills, which I apply to my work as a software engineer.
+# 🏆 GitHub Trophies:
+  <img src="https://github-profile-trophy.vercel.app/?username=DylanRothbauer&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DylanRothbauer&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 # 🤝 Let's Connect
 I'm always open to new opportunities for collaboration on innovative projects or engaging discussions about technology and shared interests. Feel free to reach out or connect with me here on GitHub!
 
 [![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/dylan-rothbauer-ab285624b/)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DylanRothbauer&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
