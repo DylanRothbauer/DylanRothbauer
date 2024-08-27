@@ -44,9 +44,6 @@
 # 🏆 GitHub Trophies:
   <img src="https://github-profile-trophy.vercel.app/?username=DylanRothbauer&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DylanRothbauer&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
 # 🤝 Let's Connect
 I'm always open to new opportunities for collaboration on innovative projects or engaging discussions about technology and shared interests. Feel free to reach out or connect with me here on GitHub!
 
