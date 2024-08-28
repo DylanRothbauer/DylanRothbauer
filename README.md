@@ -26,16 +26,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DylanRothbauer&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" alt="Dylan's GitHub Stats" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRothbauer&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Dylan's Top Languages" width="320"/>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DylanRothbauer&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" alt="Dylan's GitHub Stats" width="400"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRothbauer&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Dylan's Top Languages" width="320"/>
+</a>
 
 # 🏆 GitHub Trophies:
   <img src="https://github-profile-trophy.vercel.app/?username=DylanRothbauer&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
