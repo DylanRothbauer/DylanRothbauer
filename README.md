@@ -38,7 +38,7 @@
 </table>
 
 # 🏆 GitHub Trophies:
-  <img src="https://github-profile-trophy.vercel.app/?username=DylanRothbauer&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=DylanRothbauer&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 
 # 🚧 Projects Under Development
 [![Funkollection](https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=FunkollectionApp&theme=apprentice&show_owner=true&description_lines_count=3)](https://github.com/DylanRothbauer/FunkollectionApp)
