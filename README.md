@@ -36,8 +36,35 @@
 # 🏆 GitHub Trophies:
   <img src="https://github-profile-trophy.vercel.app/?username=DylanRothbauer&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 
+# 🚀 Featured Repositories:
+
+<div align="left">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/DylanRothbauer/Advent-of-Code">
+          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Advent-of-Code&theme=apprentice&show_owner=true&description_lines_count=3" alt="Advent of Code"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 # 🚧 Projects Under Development
-[![Funkollection](https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=FunkollectionApp&theme=apprentice&show_owner=true&description_lines_count=3)](https://github.com/DylanRothbauer/FunkollectionApp)
+
+<div align="left">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/DylanRothbauer/FunkollectionApp">
+          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=FunkollectionApp&theme=apprentice&show_owner=true&description_lines_count=3" alt="FunkollectionApp"/>
+        </a>
+      </td>
+      <!-- Add more projects here -->
+    </tr>
+  </table>
+</div>
+
 
 # 🤝 Let's Connect
 I'm always open to new opportunities for collaboration on innovative projects or engaging discussions about technology and shared interests. Feel free to reach out or connect with me here on GitHub!
