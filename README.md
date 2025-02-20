@@ -57,7 +57,7 @@
     <tr>
       <td width="50%">
         <a href="https://github.com/DylanRothbauer/Funkollection">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=FunkollectionApp&theme=apprentice&show_owner=true&description_lines_count=3" alt="FunkollectionApp"/>
+          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Funkollection&theme=apprentice&show_owner=true&description_lines_count=3" alt="Funkollection"/>
         </a>
       </td>
       <!-- Add more projects here -->
