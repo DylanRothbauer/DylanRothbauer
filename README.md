@@ -56,7 +56,7 @@
   <table>
     <tr>
       <td width="50%">
-        <a href="https://github.com/DylanRothbauer/FunkollectionApp">
+        <a href="https://github.com/DylanRothbauer/Funkollection">
           <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=FunkollectionApp&theme=apprentice&show_owner=true&description_lines_count=3" alt="FunkollectionApp"/>
         </a>
       </td>
