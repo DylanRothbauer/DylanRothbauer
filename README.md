@@ -107,6 +107,12 @@
   <a href="https://github.com/DylanRothbauer/Interview-Prep-Central" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Interview-Prep-Central&theme=nightowl" />
   </a>
+  <a href="https://github.com/DylanRothbauer/Advent-of-Code" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Advent-of-Code&theme=nightowl" />
+  </a>
+  <a href="https://github.com/DylanRothbauer/Advent-of-Code" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Advent-of-Code&theme=nightowl" />
+  </a>
 </p>
 
 <!--Contact Section--> 
