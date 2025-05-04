@@ -101,6 +101,9 @@
 <h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs 🚀</h2>
 
 <p align="center">
+  <a href="https://github.com/DylanRothbauer/Counselors-Connnect" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Counselors-Connnect&theme=nightowl" />
+  </a>
   <a href="https://github.com/DylanRothbauer/Funkollection" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Funkollection&theme=nightowl" />
   </a>
@@ -110,9 +113,7 @@
   <a href="https://github.com/DylanRothbauer/Advent-of-Code" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Advent-of-Code&theme=nightowl" />
   </a>
-  <a href="https://github.com/DylanRothbauer/Advent-of-Code" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Advent-of-Code&theme=nightowl" />
-  </a>
+  
 </p>
 
 <!--Contact Section--> 
