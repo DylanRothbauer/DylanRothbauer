@@ -1,77 +1,135 @@
-# 👋 About Me
+<!--Banner-->
+![Dylan Banner Image](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-🧑‍💻 Software Engineer<br/>
-🎓 Studied Computer Science at the University of Wisconsin - Stout, WI<br/>
-📚 I love gaming, reading, and hanging out with friends/family<br/>
-🌱 Continuously seeking to grow outside of my comfort zone<br/>
-🤝 Open to learning from others and embracing new technologies<br/>
-💭 Eager to improve, always seeking guidance and new challenges<br/>
-
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 📊 GitHub Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DylanRothbauer&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" alt="Dylan's GitHub Stats" width="400"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRothbauer&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Dylan's Top Languages" width="320"/>
-</a>
-
-# 🏆 GitHub Trophies:
-  <img src="https://github-profile-trophy.vercel.app/?username=DylanRothbauer&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-
-# 🚀 Featured Repositories:
-
-<div align="left">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/DylanRothbauer/Advent-of-Code">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Advent-of-Code&theme=apprentice&show_owner=true&description_lines_count=3" alt="Advent of Code"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://camo.githubusercontent.com/2e760a4dba6c72995663bd84ceb4e627d7639d8f119c0015608f2b94ac6b2d28/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f6173736574732f6d6f6e612d6c6f6164696e672d6461726b2d3737303161376239373337302e676966">
 </div>
 
-# 🚧 Projects Under Development
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Dylan! 
+*Software Engineer*
+<br /> 
 
-<div align="left">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/DylanRothbauer/Funkollection">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Funkollection&theme=apprentice&show_owner=true" alt="Funkollection"/>
-        </a>
-      </td>
-      <!-- Add more projects here -->
-    </tr>
-  </table>
-</div>
+<!--Start Intro-->               
+<p align="left"></p>
 
+- 🎓 Studied Computer Science at the University of Wisconsin - Stout, WI
+- 📚 I love gaming, reading, and hanging out with friends/family
+- 🌱 Continuously seeking to grow outside of my comfort zone
+- 🤝 Open to learning from others and embracing new technologies
+- 💭 Eager to improve, always seeking guidance and new challenges
 
-# 🤝 Let's Connect
-I'm always open to new opportunities for collaboration on innovative projects or engaging discussions about technology and shared interests. Feel free to reach out or connect with me here on GitHub!
+<!--End Intro-->
 
-[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/dylan-rothbauer-ab285624b/)
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DylanRothbauer&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DylanRothbauer&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<br />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=cs,cpp,java,html,css,git,github,visualstudio,vscode,eclipse,mysql,dotnet,azure,bootstrap,postman,windows,powershell,godot,unity,unreal&perline=10"  />
+</p>
+<br />
+
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/DylanRothbauer/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DylanRothbauer&row=2&column=6&margin-w=20&margin-h=20&perline=10" alt="GitHub Trophies">
+  </a>
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/DylanRothbauer">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanRothbauer&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/DylanRothbauer">
+          <img align="center" src="https://streak-stats.demolab.com?user=DylanRothbauer&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRothbauer&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Dylan's Top Languages" width="320"/>
+</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/DylanRothbauer">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=DylanRothbauer&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DylanRothbauer&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Featured Projects--> 
+<h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs 🚀</h2>
+
+<p align="center">
+  <a href="https://github.com/DylanRothbauer/Funkollection" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Funkollection&theme=nightowl" />
+  </a>
+  <a href="https://github.com/DylanRothbauer/Interview-Prep-Central" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Interview-Prep-Central&theme=nightowl" />
+  </a>
+</p>
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/dylan-rothbauer-ab285624b/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/dylanrothbaueryt/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+</a>
+
+</div>
+
+<!--Footer-->
+
+
+------
+
+Credit: [Dylan Rothbauer](https://github.com/DylanRothbauer)
+
+Last Edited on: 05/04/25
