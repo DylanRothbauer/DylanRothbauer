@@ -24,19 +24,18 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DylanRothbauer&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=DylanRothbauer&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Dylan Rothbauer" style="padding-right:20px;" />
 </p>
 
 ---
 <br />
-
+<br />
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=cs,cpp,java,html,css,git,github,visualstudio,vscode,eclipse,mysql,dotnet,azure,bootstrap,postman,windows,powershell,godot,unity,unreal&perline=10"  />
 </p>
 <br />
-
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -56,7 +55,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/DylanRothbauer">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanRothbauer&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img height="200" src="https://github-readme-stats.vercel.app/api?username=DylanRothbauer&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -64,7 +63,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/DylanRothbauer">
-          <img align="center" src="https://streak-stats.demolab.com?user=DylanRothbauer&theme=nightowl" alt="Streak Stats" />
+          <img height="200" src="https://streak-stats.demolab.com?user=DylanRothbauer&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -74,15 +73,15 @@
       <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
       <p align="center">
         <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRothbauer&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Dylan's Top Languages" width="320"/>
-</a>
+          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRothbauer&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+        </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/DylanRothbauer">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=DylanRothbauer&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img height="200" src="https://github-contributor-stats.vercel.app/api?username=DylanRothbauer&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
         </a>
       </p>
     </td>
@@ -110,7 +109,6 @@
   </a>
 </p>
 
-
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
@@ -120,13 +118,12 @@
 </a>
 
 <a href="https://www.instagram.com/dylanrothbaueryt/" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
 </a>
 
 </div>
 
 <!--Footer-->
-
 
 ------
 
