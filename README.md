@@ -96,7 +96,7 @@ A little about me:
   <tr>
     <td>
       <a href="https://github.com/DylanRothbauer/Funkollection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Funkollection&theme=nightowl" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Funkollection&theme=nightowl&cache_seconds=0" />
       </a>
     </td>
     <td>
