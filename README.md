@@ -90,23 +90,35 @@ A little about me:
 
 ---
 
-<!--Featured Projects-->
 <h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
 
-<p align="center">
-  <a href="https://github.com/DylanRothbauer/Funkollection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Funkollection&theme=nightowl" />
-  </a>
-  <a href="https://github.com/DylanRothbauer/Counselors-Connnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Counselors-Connnect&theme=nightowl" />
-  </a>
-  <a href="https://github.com/DylanRothbauer/Interview-Prep-Central">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Interview-Prep-Central&theme=nightowl" />
-  </a>
-  <a href="https://github.com/DylanRothbauer/Advent-of-Code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Advent-of-Code&theme=nightowl" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/DylanRothbauer/Funkollection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Funkollection&theme=nightowl" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DylanRothbauer/Counselors-Connnect">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Counselors-Connnect&theme=nightowl" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/DylanRothbauer/Interview-Prep-Central">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Interview-Prep-Central&theme=nightowl" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DylanRothbauer/Advent-of-Code">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Advent-of-Code&theme=nightowl" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
