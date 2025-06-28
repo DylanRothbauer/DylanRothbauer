@@ -60,7 +60,7 @@ A little about me:
     <td width="50%">
       <h3 align="center"><strong>Streak</strong></h3>
       <p align="center">
-        <img height="200" src="https://streak-stats.demolab.com?user=DylanRothbauer&theme=nightowl&cache_seconds=3600" alt="GitHub Streak Stats" />
+        <img height="200" src="https://streak-stats.demolab.com?user=DylanRothbauer&theme=nightowl&cache_seconds=30" alt="GitHub Streak Stats" />
       </p>
     </td>
   </tr>
