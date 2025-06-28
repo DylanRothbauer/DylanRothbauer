@@ -33,7 +33,7 @@ A little about me:
 <h2 align="center">🛠️ Lᴀɴɢᴜᴀɢᴇs & Tᴏᴏʟs</h2>
 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=cs,cpp,java,html,css,git,github,visualstudio,vscode,eclipse,mysql,dotnet,azure,bootstrap,postman,windows,powershell,godot,unity,unreal&perline=10" />
+  <img width="500px" src="https://skillicons.dev/icons?i=cs,cpp,java,html,css,git,github,vue,visualstudio,vscode,eclipse,mysql,dotnet,azure,bootstrap,tailwind,postman,windows,powershell,php,npm,godot,unity,unreal&perline=10" />
 </p>
 
 ---
