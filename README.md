@@ -47,39 +47,28 @@ A little about me:
 ---
 
 <!--GitHub Stats Table-->
+&cache_seconds=30
+
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Stats</strong></h3>
-      <p align="center">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=DylanRothbauer&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-      </p>
+    <td align="center" width="50%">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=DylanRothbauer&count_private=true&show_icons=true&theme=nightowl" />
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Streak</strong></h3>
-      <p align="center">
-        <img height="200" src="https://streak-stats.demolab.com?user=DylanRothbauer&theme=nightowl&cache_seconds=30" alt="GitHub Streak Stats" />
-      </p>
+    <td align="center" width="50%">
+      <img height="200" src="https://streak-stats.demolab.com?user=DylanRothbauer&theme=nightowl&cache_seconds=30" alt="GitHub Streak Stats" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Top Languages</strong></h3>
-      <p align="center">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRothbauer&theme=nightowl&layout=compact" alt="Top Languages" />
-      </p>
+    <td align="center" width="50%">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRothbauer&theme=nightowl&layout=compact" />
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Top Contributions</strong></h3>
-      <p align="center">
-        <img height="200" src="https://github-contributor-stats.vercel.app/api?username=DylanRothbauer&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
-      </p>
+    <td align="center" width="50%">
+      <img height="200" src="https://github-contributor-stats.vercel.app/api?username=DylanRothbauer&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" />
     </td>
   </tr>
 </table>
-
 ---
 
 <!--Contribution Graph-->
