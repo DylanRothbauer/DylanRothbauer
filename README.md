@@ -47,7 +47,6 @@ A little about me:
 ---
 
 <!--GitHub Stats Table-->
-&cache_seconds=30
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
 
