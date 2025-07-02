@@ -56,7 +56,8 @@ A little about me:
       <img height="200" src="https://github-readme-stats.vercel.app/api?username=DylanRothbauer&count_private=true&show_icons=true&theme=nightowl" />
     </td>
     <td align="center" width="50%">
-      <img height="200" src="https://streak-stats.demolab.com?user=DylanRothbauer&theme=nightowl&cache_seconds=1800" />
+      <img height="200" src="https://streak-stats.demolab.com?user=DylanRothbauer&theme=nightowl&cache_seconds=10" alt="GitHub Streak Stats" />
+<!--       <img height="200" src="https://streak-stats.demolab.com?user=DylanRothbauer&theme=nightowl&cache_seconds=1800" /> -->
 <!--       <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=DylanRothbauer&theme=nightowl" alt="GitHub Streak Stats" /> -->
     </td>
   </tr>
