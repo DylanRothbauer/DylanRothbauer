@@ -47,6 +47,56 @@
   </a>
 </p>
 
+<!-- Resume Dropdown -->
+<details>
+  <summary><h2>📄 Resume</h2></summary>
+  <!-- Education Section -->
+  <h3>🎓 Education</h3>
+  <ul>
+    <li style="position:relative; padding-right:120px;">
+      📖 <b>B.S. in Computer Science</b> <br>
+      📆 2021-2026 <br>
+      📍 University of Wisconsin - Stout, WI <br>
+      <!-- Tech badges -->
+      <img src="https://skillicons.dev/icons?i=cpp,java,python" height="20" />
+    </li>
+  </ul>
+
+  <!-- Experience Section -->
+  <h3>💼 Experience</h3>
+  <ul>
+    <li style="position:relative; padding-right:160px;">
+      👨‍💻 <b>Software Developer Intern</b> <br>
+      📆 May '25 - Aug '25 <br>
+      📍 Sentry Insurance - Stevens Point, WI <br>
+      <!-- Tech badges -->
+      <img src="https://skillicons.dev/icons?i=vue,spring,tailwind,gradle,jenkins,bitbucket" height="20" />
+    </li>
+    <li style="position:relative; padding-right:120px;">
+      👨‍💻 <b>Software Engineering Associate</b> <br>
+      📆 May '24 - Aug '24 <br>
+      📍 Heartland Business Systems - Little Chute, WI <br>
+      <!-- Tech badges -->
+      <img src="https://skillicons.dev/icons?i=react,dotnet,bootstrap,azure" height="20" />
+    </li>
+    <li style="position:relative; padding-right:100px;">
+      👨‍💻 <b>Assistant Store Leader</b> <br>
+      📆 Oct '20 - Sep '21 <br>
+      📍 Kwik Trip - Eau Claire, WI
+      <span style="position:absolute; right:0; top:0;">
+        <img src="https://skillicons.dev/icons?i=excel,word,powerpoint" height="20" />
+      </span>
+    </li>
+    <li style="position:relative; padding-right:80px;">
+      👨‍💻 <b>Assistant Manager</b> <br>
+      📆 Oct '17 - Sep '20 <br>
+      📍 QuikTrip - Charlotte, NC
+      <span style="position:absolute; right:0; top:0;">
+        <img src="https://skillicons.dev/icons?i=excel,word" height="20" />
+      </span>
+    </li>
+  </ul>
+</details>
 
 <h2 align="left">🛠️ Lᴀɴɢᴜᴀɢᴇs & Tᴏᴏʟs</h2>
 
@@ -99,41 +149,5 @@
   </tr>
 </table>
 
-<!-- Resume Dropdown -->
-<details>
-  <summary><h2>📄 Resume</h2></summary>
-  <!-- Education Section -->
-  <h3>🎓 Education</h3>
-  <ul>
-    <li>📖 <b>B.S. in Computer Science</b> <br>
-      📆 2021-2026 <br>
-      📍 University of Wisconsin - Stout, WI
-    </li>
-  </ul>
-
-  <!-- Experience Section -->
-  <h3>💼 Experience</h3>
-  <ul>
-    <li>👨‍💻<b>Software Developer Intern</b> <br>
-      📆 May '25 - Aug '25 <br>
-      📍 Sentry Insurance - Stevens Point, WI
-    </li>
-    <li>👨‍💻<b>Software Engineering Associate</b> <br>
-      📆 May '24 - Aug '24 <br>
-      📍 Heartland Business Systems - Little Chute, WI
-    </li>
-    <li>👨‍💻<b>Assistant Store Leader</b> <br>
-      📆 Oct '20 - Sep '21 <br>
-      📍 Kwik Trip - Eau Claire, WI
-    </li>
-    <li>👨‍💻<b>Assistant Manager</b> <br>
-      📆 Oct '17 - Sep '20 <br>
-      📍 QuikTrip - Charlotte, NC
-    </li>
-  </ul>
-  
-</details>
-
-
-<p align="center"><i>Last Edited on: 06/25/2025</i></p>
+<p align="center"><i>Last Edited on: 01/23/2026</i></p>
 <p align="center">💡 Credit: <a href="https://github.com/DylanRothbauer">Dylan Rothbauer</a></p>
