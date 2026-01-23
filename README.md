@@ -41,9 +41,16 @@
   <a href="https://open.spotify.com/user/vnnqcqexou26y0q5arwpjpag6" target="_blank" style="display:inline-block; vertical-align:top;">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="display:block;" />
   </a>
-  <!-- Chess.com Dynamic Rating -->
-  <a href="https://www.chess.com/member/lego_3d" target="_blank" style="display:inline-block; vertical-align:top;">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=chessdotcom&label=Rapid%20Rating&query=$.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Flego_3d%2Fstats" alt="Chess.com Rating" style="display:block;" />
+</p>
+
+<!-- Chess.com Dynamic Rating -->
+<p align="center" style="text-decoration:none">
+  <a href="https://www.chess.com/member/lego_3d" rel="nofollow">
+    ♟Playing Chess
+    <img align="center" 
+         src="https://img.shields.io/badge/dynamic/json?logo=chessdotcom&label=rating&query=$.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Flego_3d%2Fstats" 
+         style="max-width: 100%;" 
+         alt="Chess.com Rating" />
   </a>
 </p>
 
