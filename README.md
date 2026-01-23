@@ -8,46 +8,44 @@
 </div> 
 
 <!-- Badges Row -->
-<div style="display:flex; align-items:center; gap:5px; flex-wrap:wrap;">
-  <!-- Profile views badge -->
-  <a href="#" style="display:inline-block; text-decoration:none;">
+<p style="line-height:0; margin:0;">
+  <!-- Profile Views -->
+  <a href="#" target="_blank" style="display:inline-block; vertical-align:top;">
     <img src="https://komarev.com/ghpvc/?username=DylanRothbauer&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" style="display:block;" />
   </a>
-
-  <!-- LinkedIn badge -->
-  <a href="https://www.linkedin.com/in/dylan-rothbauer-ab285624b/" target="_blank" style="display:inline-block; text-decoration:none;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dylan-rothbauer-ab285624b/" target="_blank" style="display:inline-block; vertical-align:top;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="display:block;" />
   </a>
-
-  <!-- LeetCode badge -->
-  <a href="https://leetcode.com/u/lego3d/" target="_blank" style="display:inline-block; text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="display:block;" />
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/lego3d/" target="_blank" style="display:inline-block; vertical-align:top;">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" style="display:block;" />
   </a>
-
-  <!-- Youtube badge -->
-  <a href="https://www.youtube.com/@DylanRothbauer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="display:block" />
+  <!-- Codechef -->
+  <a href="https://www.codechef.com/users/djrothbauer" target="_blank" style="display:inline-block; vertical-align:top;">
+    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="Codechef" style="display:block;" />
   </a>
-
-  <!-- TikTok badge -->
-  <a href="https://www.tiktok.com/@dylanrothbauer">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" style="display:block" />
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/djrothbauer" target="_blank" style="display:inline-block; vertical-align:top;">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" style="display:block;" />
   </a>
-
-  <!-- Spotify badge -->
-  <a href="https://open.spotify.com/user/vnnqcqexou26y0q5arwpjpag6">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" style="display:block" />
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@DylanRothbauer" target="_blank" style="display:inline-block; vertical-align:top;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="display:block;" />
   </a>
-  
-  <!-- Chess.com badge -->
-  <a href="https://www.chess.com/member/lego_3d">
-    Playing Chess 
-    <img align="center" src="https://img.shields.io/badge/dynamic/json?logo=chessdotcom&label=rating&query=$.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Flego_3d%2Fstats" alt="Chess.com Rating" style="display:block" />
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@dylanrothbauer" target="_blank" style="display:inline-block; vertical-align:top;">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" style="display:block;" />
+  </a>
+  <!-- Spotify -->
+  <a href="https://open.spotify.com/user/vnnqcqexou26y0q5arwpjpag6" target="_blank" style="display:inline-block; vertical-align:top;">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="display:block;" />
+  </a>
+  <!-- Chess.com Dynamic Rating -->
+  <a href="https://www.chess.com/member/lego_3d" target="_blank" style="display:inline-block; vertical-align:top;">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=chessdotcom&label=Rapid%20Rating&query=$.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Flego_3d%2Fstats" alt="Chess.com Rating" style="display:block;" />
   </a>
 </p>
-
-
-
 
 
 <h2 align="left">🛠️ Lᴀɴɢᴜᴀɢᴇs & Tᴏᴏʟs</h2>
@@ -100,6 +98,42 @@
     </td>
   </tr>
 </table>
+
+<!-- Resume Dropdown -->
+<details>
+  <summary><h2>📄 Resume</h2></summary>
+  <!-- Education Section -->
+  <h3>🎓 Education</h3>
+  <ul>
+    <li>📖 <b>B.S. in Computer Science</b> <br>
+      📆 2021-2026 <br>
+      📍 University of Wisconsin - Stout, WI
+    </li>
+  </ul>
+
+  <!-- Experience Section -->
+  <h3>💼 Experience</h3>
+  <ul>
+    <li>👨‍💻<b>Software Developer Intern</b> <br>
+      📆 May '25 - Aug '25 <br>
+      📍 Sentry Insurance - Stevens Point, WI
+    </li>
+    <li>👨‍💻<b>Software Engineering Associate</b> <br>
+      📆 May '24 - Aug '24 <br>
+      📍 Heartland Business Systems - Little Chute, WI
+    </li>
+    <li>👨‍💻<b>Assistant Store Leader</b> <br>
+      📆 Oct '20 - Sep '21 <br>
+      📍 Kwik Trip - Eau Claire, WI
+    </li>
+    <li>👨‍💻<b>Assistant Manager</b> <br>
+      📆 Oct '17 - Sep '20 <br>
+      📍 QuikTrip - Charlotte, NC
+    </li>
+  </ul>
+  
+</details>
+
 
 <p align="center"><i>Last Edited on: 06/25/2025</i></p>
 <p align="center">💡 Credit: <a href="https://github.com/DylanRothbauer">Dylan Rothbauer</a></p>
