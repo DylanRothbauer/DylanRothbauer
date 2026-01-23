@@ -37,10 +37,6 @@
   <a href="https://www.tiktok.com/@dylanrothbauer" target="_blank" style="display:inline-block; vertical-align:top;">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" style="display:block;" />
   </a>
-  <!-- Spotify -->
-  <a href="https://open.spotify.com/user/vnnqcqexou26y0q5arwpjpag6" target="_blank" style="display:inline-block; vertical-align:top;">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="display:block;" />
-  </a>
 </p>
 
 <!-- Chess.com Dynamic Rating -->
