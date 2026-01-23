@@ -129,24 +129,24 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/DylanRothbauer/Funkollection">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Funkollection&theme=nightowl" />
+        <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Funkollection&theme=nightowl" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/DylanRothbauer/Counselors-Connnect">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Counselors-Connnect&theme=nightowl" />
+        <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Counselors-Connnect&theme=nightowl" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/DylanRothbauer/Interview-Prep-Central">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Interview-Prep-Central&theme=nightowl" />
+        <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Interview-Prep-Central&theme=nightowl" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/DylanRothbauer/Advent-of-Code">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Advent-of-Code&theme=nightowl" />
+        <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=DylanRothbauer&repo=Advent-of-Code&theme=nightowl" />
       </a>
     </td>
   </tr>
