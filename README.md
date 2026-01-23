@@ -153,4 +153,3 @@
 </table>
 
 <p align="center"><i>Last Edited on: 01/23/2026</i></p>
-<p align="center">💡 Credit: <a href="https://github.com/DylanRothbauer">Dylan Rothbauer</a></p>
