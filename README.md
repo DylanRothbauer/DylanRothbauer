@@ -26,7 +26,7 @@ public class DylanRothbauer extends Human implements SoftwareDeveloper {
         while (isAlive) {
             this.drinkCoffee();
             this.code();
-            this.learn(); // Currently focused on Vue.js & Unreal Engine 5
+            this.learn();
             if (isWeekend) this.playVideoGames();
         }
     }
