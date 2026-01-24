@@ -7,6 +7,32 @@
   </h1>
 </div> 
 
+```java
+import java.util.*;
+
+@Developer(status = "Always Learning", focus = "Backend & Game Dev")
+public class DylanRothbauer extends Human implements SoftwareDeveloper {
+    private final String currentRole = "Software Developer @ Sentry Insurance";
+    private String[] hobbies = {"Chess", "Playing video games", "Reading", "Mixology"};
+    private String currentlyLearning = "Vue.js & Unreal Engine 5";
+    private boolean prefersDarkMode = true;
+    private boolean isCoffeeLover = true;
+
+    public String getFunFact() {
+        return "I know how to solve a Rubik's Cube!";
+    }
+
+    public void run() {
+        while (isAlive) {
+            this.drinkCoffee();
+            this.code();
+            this.learn(); // Currently focused on Vue.js & Unreal Engine 5
+            if (isWeekend) this.playVideoGames();
+        }
+    }
+}
+```
+
 <!-- Badges Row -->
 <p style="line-height:0; margin:0;">
   <!-- Profile Views -->
