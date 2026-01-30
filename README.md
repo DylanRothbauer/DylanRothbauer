@@ -1,3 +1,13 @@
+<!-- Leetcode Overview Stat -->
+<!-- <a href="https://leetcode.com/u/lego3d/">
+  <img src="https://leetcard.jacoblin.cool/lego3d?theme=dark&font=JetBrains%20Mono" />
+</a> -->
+
+<!-- Youtube Embedded Video -->
+<!-- <a href="https://youtu.be/YOUR_VIDEO">
+  <img src="https://img.youtube.com/vi/f0BINARun5Q/maxresdefault.jpg" width="400"/>
+</a> -->
+
 <!--Header Name-->
 <div align="center">
   <h1>
@@ -59,10 +69,20 @@ public class DylanRothbauer extends Human implements SoftwareDeveloper {
   <a href="https://www.youtube.com/@DylanRothbauer" target="_blank" style="display:inline-block; vertical-align:top;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="display:block;" />
   </a>
+  <!-- Youtube Sub Count -->
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCIuvC19uCQYh_u82JW9aB4w?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <!-- Youtube Views Count -->
+  <img src="https://img.shields.io/youtube/channel/views/UCIuvC19uCQYh_u82JW9aB4w?style=for-the-badge&logo=youtube&logoColor=white"/>
   <!-- TikTok -->
   <a href="https://www.tiktok.com/@dylanrothbauer" target="_blank" style="display:inline-block; vertical-align:top;">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" style="display:block;" />
   </a>
+
+  <!-- Steam -->
+  <a href="https://steamcommunity.com/id/76561198170291890">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+  
 </p>
 
 <!-- Chess.com Dynamic Rating -->
