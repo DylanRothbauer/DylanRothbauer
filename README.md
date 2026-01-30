@@ -79,7 +79,7 @@ public class DylanRothbauer extends Human implements SoftwareDeveloper {
   </a>
 
   <!-- Steam -->
-  <a href="https://steamcommunity.com/id/76561198170291890">
+  <a href="https://steamcommunity.com/profiles/76561198170291890">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
   
