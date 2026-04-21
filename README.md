@@ -23,7 +23,7 @@ import java.util.*;
 @Developer(status = "Always Learning", focus = "Backend & Game Dev")
 public class DylanRothbauer extends Human implements SoftwareDeveloper {
     private final String currentRole = "Software Developer @ Sentry Insurance";
-    private String[] hobbies = {"Chess", "Playing video games", "Reading", "Mixology"};
+    private String[] hobbies = {"Chess", "Playing video games", "Reading", "Golf"};
     private String currentlyLearning = "Vue.js & Unreal Engine 5";
     private boolean prefersDarkMode = true;
     private boolean isCoffeeLover = true;
